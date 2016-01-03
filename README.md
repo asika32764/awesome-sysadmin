@@ -380,6 +380,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
+* [Mailtrap](https://mailtrap.io/) - A fake SMTP server for development teams to test, view and share emails.
 
 ## Software Containers
 *Operating system–level virtualization.*
